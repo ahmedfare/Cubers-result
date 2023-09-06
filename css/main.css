@@ -303,7 +303,7 @@ margin-bottom: 5px;
 @media (max-width:803px) {
   .images{
  display: flex;
- flex-direction: column-reverse;
+ /* flex-direction: column-reverse; */
   }
   img{
     width: 80%;
